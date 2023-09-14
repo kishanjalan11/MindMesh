@@ -1,4 +1,4 @@
-<h2 align="center"> MindMesh </h2>
+<h1 align="center"> MindMesh </h1>
 <p align="center">
 <img src="https://github.com/kishanjalan11/MindMesh/assets/41429552/0ceb9492-e77e-4e75-b5d6-82f1b4f18b11"  border="10"/>
 </p>
